@@ -1,0 +1,103 @@
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>HOME</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="1024" />
+  <meta name="viewport" content="width=1024, maximum-scale=1" />
+  <meta id="meta-keywords" name="keywords" content=""/>
+  <meta id="meta-description" name="description" content=""/>
+
+  <link rel="shortcut icon" href="//static.websitebuilder.com/_websitebuilder/img/icons/favicon.ico?012211" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="//static.websitebuilder.com/_websitebuilder/img/icons/apple-touch-icon.png?012211" />
+  <link rel="apple-touch-icon" sizes="57x57" href="//static.websitebuilder.com/_websitebuilder/img/icons/apple-touch-icon-57x57.png?012211">
+  <link rel="apple-touch-icon" sizes="60x60" href="//static.websitebuilder.com/_websitebuilder/img/icons/apple-touch-icon-60x60.png?012211">
+  <link rel="apple-touch-icon" sizes="72x72" href="//static.websitebuilder.com/_websitebuilder/img/icons/apple-touch-icon-72x72.png?012211">
+  <link rel="apple-touch-icon" sizes="114x114" href="//static.websitebuilder.com/_websitebuilder/img/icons/apple-touch-icon-114x114.png?012211">
+  <link rel="apple-touch-icon" sizes="120x120" href="//static.websitebuilder.com/_websitebuilder/img/icons/apple-touch-icon-120x120.png?012211">
+  <link rel="apple-touch-icon" sizes="144x144" href="//static.websitebuilder.com/_websitebuilder/img/icons/apple-touch-icon-144x144.png?012211">
+  <link rel="apple-touch-icon" sizes="152x152" href="//static.websitebuilder.com/_websitebuilder/img/icons/apple-touch-icon-152x152.png?012211">
+  <meta name="msapplication-square70x70logo" content="//static.websitebuilder.com/_websitebuilder/img/icons/smalltile.png?012211" />
+  <meta name="msapplication-square150x150logo" content="//static.websitebuilder.com/_websitebuilder/img/icons/mediumtile.png?012211" />
+  <meta name="msapplication-wide310x150logo" content="//static.websitebuilder.com/_websitebuilder/img/icons/widetile.png?012211" />
+  <meta name="msapplication-square310x310logo" content="//static.websitebuilder.com/_websitebuilder/img/icons/largetile.png?012211" />
+
+<script type='text/javascript'>
+var _gaq = undefined;var ga = undefined;
+</script>
+<script type='text/javascript'>
+var _fc;window.getInsights=function(a,b){_fc||(_fc=a,a=null),window.AMInsights?(_fc&&(_fc(window.AMInsights),_fc=null),a&&a(window.AMInsights)):(b=b||25,setTimeout(function(){window.getInsights(a,2*b)},b))};
+</script>
+<script type='text/javascript' src='https://149B4.wpc.azureedge.net/80149B4/insights/t.js?brand=WebsiteBuilder&v=g-201701201101533246'></script>
+<script type='text/javascript'>
+window.getInsights(function(insights){insights.init('f7c280de-1449-4127-b4f1-e6d28e1b076c');});
+</script>
+  <link rel="stylesheet" type="text/css" href="//storage.googleapis.com/wzcomponents/g-201701201101533246/viewer-website-builder/viewer.css"/>
+<script type='text/javascript'>
+var PageData = {"baseAddress":"http://sasgames.my-free.website","ServicesBasePath":"","isTablet":false,"siteSettings":{"blogRssSettings":{"enabled":true},"doneFirstPublish":"true","enableColumnsGrid":"false","showAlwaysColumnsGrid":"false"},"defaultAjaxPageID":"id1343569893637","PageNotFound":false};
+var Global = {"FacebookAppID":"620549068053083","IsMobile":false,"IsMobileView":false,"IsMobileClient":false,"SiteID":44598145,"IsNewStructure":true};
+var SiteInformation =  {"limitations":{"video":{"limitation":{"isLimited":true}},"pages":{"limitation":{"isLimited":true}},"ecommerce":{"limitation":{"productLimit":0,"isLimited":true}},"publish":{"limitation":{"isLimited":true}},"stats":{"limitation":{"isLimited":true}},"storage":{"limitation":{"isLimited":false}},"file":{"limitation":{"isLimited":false}},"premium":{"limitation":{"isLimited":true}},"mobile":{"limitation":{"isLimited":true}},"newSites":{"limitation":{"isLimited":true}},"favicon":{"limitation":{"isLimited":true}},"embedded":{"limitation":{"isLimited":true}},"bannerFeature":{"iframeUrl":"http://iframe.websitebuilder.com/editor/freeSiteUnder","iframeHeight":"66px","limitation":{"isLimited":true}},"history":{"limitation":{"isLimited":true,"upsellText":"Don't lose your work! To have unlimited access to all previous <br />versions of your site with Save History you must <a target=\"_blank\" href=\"https://secure.websitebuilder.com\">upgrade</a>"}},"posts":{"limitation":{"maxPosts":7,"isLimited":true}},"hdvideo":{"limitation":{"isLimited":false}},"totalpages":{"limitation":{"maxPages":6,"isLimited":false}},"advancedStats":{"limitation":{"maxPages":6,"isLimited":true}}},"isPremium":false,"groupId":44598145,"storeInformation":{},"baseVersion":82160721};
+var Settings = {"UserStorageUrlsMap":{"1":"//assets.websitebuilder.com/users/{0}/","2":"https://wzukusers.blob.core.windows.net/user-{0}/","6":"https://storage.googleapis.com/wzukusers/user-{0}/","61":"//storage.googleapis.com/wzukusers/user-{0}/","64":"//storage.googleapis.com/wzusersdev/user-{0}/"},"WebzaiStorageUrlsMap":{"1":"//assets.websitebuilder.com/assets/","2":"https://wzuk.blob.core.windows.net/assets/","6":"https://storage.googleapis.com/wzuk/assets/","61":"//storage.googleapis.com/wzuk/assets/","64":"//storage.googleapis.com/wzdev/assets/"},"GoogleMapsApiKey":"AIzaSyDDN-2k9hsq_-p2wQYYWj7_TAJn5Psu298","StaticContentUrl":"//webzaidev.blob.core.windows.net/","ServiceAddress":"http://editor.websitebuilder.com/","ApplicationRoot":"//storage.googleapis.com/wzcomponents/g-201701201101533246","Brand":3,"ApplicationDomain":"websitebuilder.com","YoutubeApiKey":"AIzaSyCwks1zPsoNoFrTtS4A2xsa4jxPhdtlQGI","AppsIframeRoot":"//preview.websitebuilder.com","AppVersion":"g-201701201101533246","DevelopmentMode":"","ServiceEndpoints":{"Store":{"PublicApi":"https://store-api.websitebuilder.com/v1/","EmbedApi":"https://embed.websitebuilder.com/dist/src/"}},"ImageProxy":"https://images.mywebsitebuilder.com/s/?","RaygunSettings":null};
+
+</script>
+<script src='//storage.googleapis.com/wzcomponents/g-201701201101533246/viewer/viewer.js' type='text/javascript'></script>
+<script src='https://storage.googleapis.com/wzukusers/user-26835463/sites/44598145/5884733d5b479WDtqpqd/5884987317154DeSUYgM.js?1485084881' type='text/javascript'></script>
+<script src='https://storage.googleapis.com/wzukusers/user-26835463/sites/44598145/5884733d5b479WDtqpqd/hGkPPhbsbVTG8Ddzsyag.js?1485084881' type='text/javascript'></script>
+<script src='https://storage.googleapis.com/wzukusers/user-26835463/sites/44598145/5884733d5b479WDtqpqd/vdJwqOlBOPkkdqUQ2gB7.js?1485084881' type='text/javascript'></script>
+<script type='text/javascript'>
+var SiteFilesMap = {"page-id1343569893637":"https://storage.googleapis.com/wzukusers/user-26835463/sites/44598145/5884733d5b479WDtqpqd/vdJwqOlBOPkkdqUQ2gB7.js","page-1414566297682":"https://storage.googleapis.com/wzukusers/user-26835463/sites/44598145/5884733d5b479WDtqpqd/viDv3XqceMTWe3wJ32si.js","page-1414566317983":"https://storage.googleapis.com/wzukusers/user-26835463/sites/44598145/5884733d5b479WDtqpqd/HdYd1fKKpg6aHPPrKGJo.js","page-1414566318167":"https://storage.googleapis.com/wzukusers/user-26835463/sites/44598145/5884733d5b479WDtqpqd/AhIhCLyctZhyIJ1MEuOu.js","master-1343569893636":"https://storage.googleapis.com/wzukusers/user-26835463/sites/44598145/5884733d5b479WDtqpqd/hGkPPhbsbVTG8Ddzsyag.js","site-structure":"https://storage.googleapis.com/wzukusers/user-26835463/sites/44598145/5884733d5b479WDtqpqd/5884987317154DeSUYgM.js"};</script>
+
+  <script type="text/javascript">
+    var DynamicPageContent = null;
+    var DBSiteMetaData = {
+      'pagesStructureInformation':{
+        'pagesData':{"id1343569893637":{"metaTags":"","tags":[],"id":"id1343569893637","title":"HOME","index":1,"pageTitle":"","keyWords":"","description":"","shareStyle":true,"useNameASTitle":true,"isHomePage":true,"supportsMobileStates":true,"urlAlias":"","useNameASUrl":false,"useDefaultTitle":false},"1414566297682":{"metaTags":"","tags":[],"id":"1414566297682","title":"GAMES","pageTitle":"ABOUT","description":"default description","keyWords":"","index":2,"isHomePage":false,"shareStyle":true,"supportsMobileStates":true,"urlAlias":"games","useNameASUrl":true,"useDefaultTitle":false,"menu":{"isDesktopDisabled":false}},"1414566317983":{"metaTags":"","tags":[],"id":"1414566317983","title":"ABOUT","pageTitle":"GALLERY","description":"default description","keyWords":"","index":3,"isHomePage":false,"shareStyle":true,"supportsMobileStates":true,"urlAlias":"about-1","useNameASUrl":true},"1414566318167":{"metaTags":"","tags":[],"id":"1414566318167","title":"CONTACT US","pageTitle":"","description":"default description","keyWords":"","index":4,"isHomePage":false,"shareStyle":true,"supportsMobileStates":true,"urlAlias":"contact-us","useNameASUrl":true,"useDefaultTitle":false}},
+        'pagesHierarchies':{}      },
+      'siteStructureInformation':{
+        'masterPages': {"1343569893636":{"pagesIDs":["id1343569893637","1414566297682","1414566317983","1414566318167"]}},
+        'listsInformation':{}      }
+    };
+
+    var TemporaryImages = []
+    Viewer.initialize();
+  </script>
+</head>
+
+<body>
+<!-- Cached Version -->
+<div id="body-element">
+    <section class="site-element" element-id="masterPageContentSectionId" element-type="SectionElement"></section>
+    <header class="site-element" element-id="id1485075565009" element-type="HeaderElement">
+        <div class="element-children-container">
+            <h3 class="site-element" element-id="id1485075565012" element-type="freeText">
+                <div><span style="font-size:53px;"><span style="font-family:monofett;"><span style="font-size:59px;"><span style="color:#d62e2e;">SAS GAMES</span></span><span style="color:#c72626;"></span></span></span></div>
+            </h3>
+            <div class="site-element" element-id="id1485075565013" element-type="freeText">
+                <div>THE BEST ONLINE GAMES!</div>
+                <div style="text-align: left;">AWESOME ACTION GAMES , PUZZLE GAMES, EXCITING RACING GAMES AND <br></div>
+                <div>RADICAL SHOOTING GAMES. <br></div>
+                <div>AND MANY MORE! </div>
+            </div>
+            <section class="site-element" element-id="id1485075565011" element-type="PagesMenu">
+                <nav><a href="/">HOME</a><a href="/games">GAMES</a><a href="/about-1">ABOUT</a><a href="/contact-us">CONTACT US</a></nav>
+            </section>
+        </div>
+    </header>
+    <div class="site-element" element-id="1407085040751" element-type="PageContentElement"></div>
+    <section class="site-element" element-id="id1485084674739" element-type="SectionElement"></section>
+    <footer class="site-element" element-id="1414566213511" element-type="FooterElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="1414566213513" element-type="freeText">
+                <div>EMAIL: xyz@gmail.com</div>
+                <div>TEL: 03192-242212</div>
+            </div>
+        </div>
+    </footer>
+</div></body>
+</html>
